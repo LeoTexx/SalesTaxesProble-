@@ -19,8 +19,15 @@ yarn
 npm i
 ```
 
-
 ## Usage
+
+To run our API, use the following commands:
+
+```
+yarn dev
+//or
+npm run dev
+```
 
 To test our routes, we are using Insomnia, just intall it from the link below
 https://insomnia.rest/download
@@ -51,10 +58,3 @@ npm run test
 ## Contributing
 
 Feel free to clone and change what would better fit your needs, hope it helps😉
-
-# SalesTaxesProble-
-
-# SalesTaxesProble-
-
-# SalesTaxesProble-
-
